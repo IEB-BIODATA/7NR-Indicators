@@ -6,7 +6,7 @@
     <tr>
       <td rowspan="13">Objetivo I</td>
       <td>Meta Nacional I.1</td>
-      <td><ul><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li>B.1 Services provided by ecosystems</li></ul></td>
+      <td><ul><li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li>B.1 Services provided by ecosystems</li></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.2</td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.11</td>
-      <td><ul><li>A.3 Red List Index</li><li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li></ul></td>
+      <td><ul><li><a href="./A.3_RLI/">A.3 Red List Index</a></li><li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.12</td>
@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td>Meta Nacional II.18</td>
-      <td><ul><li>12.1 Average share of green/blue space (urban) for public use</li></ul></td>
+      <td><ul><li><a href="./12.1_Average_Area_Gree_Blue/">12.1 Average share of green/blue space (urban) for public use</a></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional II.19</td>
