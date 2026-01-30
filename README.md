@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.7</td>
-      <td><ul><li>2.2 Area under restoration</li></ul></td>
+      <td rowspan="3"><ul><li>2.2 Area under restoration</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.8</td>
@@ -79,11 +79,10 @@
     </tr>
     <tr>
       <td>Meta Nacional II.19</td>
-      <td>No tiene indicador</td>
+      <td rowspan="2">No tiene indicador</td>
     </tr>
     <tr>
       <td>Meta Nacional II.20</td>
-      <td>—</td>
     </tr>
     <tr>
       <td>Meta Nacional II.21</td>
@@ -107,11 +106,10 @@
     </tr>
     <tr>
       <td>Meta Nacional II.26</td>
-      <td>No tiene indicador</td>
+      <td rowspan="2">No tiene indicador</td>
     </tr>
     <tr>
       <td>Meta Nacional II.27</td>
-      <td>—</td>
     </tr>
   </tbody>
 </table>
