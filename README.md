@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.7</td>
-      <td>
+      <td rowspan="3">
         <ul>
           <li>2.2 Area under restoration</li>
         </ul>
@@ -71,11 +71,9 @@
     </tr>
     <tr>
       <td>Meta Nacional I.8</td>
-      <td>—</td>
     </tr>
     <tr>
       <td>Meta Nacional I.9</td>
-      <td>—</td>
     </tr>
     <tr>
       <td>Meta Nacional I.10</td>
