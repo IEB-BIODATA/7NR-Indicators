@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.4</td>
-      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="Meta_Nacional_I4_especies_categoría/MN4.ipynb/">Indicador I4: número de especies clasificadas</li></ul></td>
+      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="Meta_Nacional_I4_especies_categoría/">Indicador I4: número de especies clasificadas</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.5</td>
@@ -183,11 +183,12 @@
         <ul>
           <li>7.1 Index of coastal eutrophication potential</li>
           <li>7.2 Pesticide environment concentration</li>
+          <li><a href="./Meta_Nacional_I23_Normas_de_Calidad/">Indicador I23: tablas normas de calidad</a></li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>Meta Nacional II.24</td>
+      <td>Meta Nacional II.24</td>Meta_Nacional_I23_Normas_de_Calidad
       <td>
         <ul>
           <li>7.1 Index of coastal eutrophication potential</li>
