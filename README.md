@@ -19,11 +19,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.2</td>
-      <td>
-        <ul>
-          <li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
-        </ul>
-      </td>
+       <td><ul><li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./Meta_Nacional_I2_planes_de_manejo/">Indicador para I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.3</td>
@@ -36,12 +32,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.4</td>
-      <td>
-        <ul>
-          <li>2.2 Area under restoration</li>
-          <li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
-        </ul>
-      </td>
+      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="Meta_Nacional_I4_especies_categoría/MN4.ipynb/">Indicador para I4: número de especies clasificadas</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.5</td>
