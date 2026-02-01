@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.2</td>
-       <td><ul><li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./Meta_Nacional_I2_planes_de_manejo/">Indicador para I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
+       <td><ul><li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./Meta_Nacional_I2_planes_de_manejo/">Indicador I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.3</td>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td>Meta Nacional I.4</td>
-      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="Meta_Nacional_I4_especies_categoría/MN4.ipynb/">Indicador para I4: número de especies clasificadas</li></ul></td>
+      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="Meta_Nacional_I4_especies_categoría/MN4.ipynb/">Indicador I4: número de especies clasificadas</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.5</td>
@@ -49,6 +49,7 @@
         <ul>
           <li><a href="./A.3_RLI/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
+          <li><a href="./Meta_Nacional_I6_planes_RECOGE/">Indicador I6: planes RECOGE y especies incluidas</a></li>
         </ul>
       </td>
     </tr>
