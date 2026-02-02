@@ -1,78 +1,103 @@
+# Metadata — Indicador y Cálculo
+
 ---
-# === Indicador(s) ===
-indicator:
-  code: "<codigo>"                              # ej: IND-01
-  name: "<nombre indicador>"
-  objective: "<qué mide y por qué importa>"
-  unit: "<unidad>"                              # ej: %, ha, km2, n°
-  formula_summary: "Resumen legible de la fórmula (sin detalles excesivos)."
-  methodology_ref: "<doc_url o nombre doc>"     # referencia a metodología formal
-  assumptions:
-    - "<supuesto 1>"
-    - "<supuesto 2>"
-  limitations:
-    - "<limitación 1>"
 
-# === Entradas de datos ===
-inputs:
-  sources:
-    - name: "<fuente>"
-      type: "wms/wfs/api/csv/shp/geopackage/db"
-      uri: "<url/tabla/ruta>"
-      owner: "<institución>"
-      license: "<licencia>"
-      access: "public"                          # public | internal | restricted
-      refresh: "mensual"
-      expected_schema: "<link o descripción>"
-  temporal_coverage:
-    start: "YYYY-MM-DD"
-    end: "YYYY-MM-DD"
-  spatial_coverage:
-    crs: "EPSG:4326"
-    extent: "<bbox o descripción>"
-  preprocessing:
-    - "Validación geometrías (make_valid)"
-    - "Filtro por atributo X"
+## 1) Indicador
 
-# === Fechas clave ===
-dates:
-  created_at: "2026-01-31"
-  last_modified_at: "2026-01-31"
-  last_run_at: "2026-01-31 09:00"               # última ejecución completa exitosa
-  last_result_published_at: "YYYY-MM-DD"        # si se publica a dashboard/reporte
+| Campo | Valor |
+|---|---|
+| **Código** | `<codigo>` *(ej: IND-01)* |
+| **Nombre** | `<nombre indicador>` |
+| **Objetivo** | `<qué mide y por qué importa>` |
+| **Unidad** | `<unidad>` *(ej: %, ha, km², n°)* |
+| **Resumen de fórmula** | Resumen legible de la fórmula (sin detalles excesivos). |
+| **Referencia metodología** | `<doc_url o nombre doc>` |
 
-# === Responsables y revisión ===
-people:
-  developer:
-    name: "Daniel Ortiz"
-    role: "Desarrollador"
-    org: "IEB"
-    contact: "daniel.ortiz@ieb-chile.cl"
-  technical_reviewer:
-    name: "Nicole Burger"
-    role: "Investigadora revisora del cálculo"
-    org: "nburger@ieb-chile.cl"
+**Supuestos**
+- `<supuesto 1>`
+- `<supuesto 2>`
 
-# === Salidas / productos ===
-outputs:
-  datasets:
-    - name: "<nombre tabla o archivo>"
-      type: "postgis-table"                     # postgis-table | parquet | geojson | csv | report
-      uri: "<schema.tabla / ruta / url>"
-      schema_ref: "<link o notas>"
-  artifacts:
-    - type: "figure"
-      uri: "<ruta/figura.png>"
-    - type: "report"
-      uri: "<ruta/reporte.pdf>"
-  publication:
-    dashboard: "<url/opcional>"
-    last_published_version: "<vX.Y>"
+**Limitaciones**
+- `<limitación 1>`
 
-## Ejecución rápida
+---
+
+## 2) Entradas de datos
+
+### 2.1 Fuentes
+
+| Fuente | Tipo | URI / Tabla / Ruta | Dueño | Licencia | Acceso | Refresh | Esquema esperado |
+|---|---|---|---|---|---|---|---|
+| `<fuente>` | `wms/wfs/api/csv/shp/geopackage/db` | `<url/tabla/ruta>` | `<institución>` | `<licencia>` | `public` | `mensual` | `<link o descripción>` |
+
+### 2.2 Cobertura
+
+| Campo | Valor |
+|---|---|
+| **Cobertura temporal (inicio)** | `YYYY-MM-DD` |
+| **Cobertura temporal (fin)** | `YYYY-MM-DD` |
+| **Cobertura espacial (CRS)** | `EPSG:4326` |
+| **Extensión** | `<bbox o descripción>` |
+
+### 2.3 Preprocesamiento
+
+- Validación geometrías (`make_valid`)
+- Filtro por atributo X
+
+---
+
+## 3) Fechas clave
+
+| Campo | Valor |
+|---|---|
+| **Creación** | `2026-01-31` |
+| **Última modificación** | `2026-01-31` |
+| **Última ejecución exitosa** | `2026-01-31 09:00` |
+| **Última publicación de resultados** | `YYYY-MM-DD` |
+
+---
+
+## 4) Responsables y revisión
+
+| Rol | Nombre | Organización | Contacto |
+|---|---|---|---|
+| **Desarrollador** | Daniel Ortiz | IEB | daniel.ortiz@ieb-chile.cl |
+| **Revisión técnica (cálculo)** | Nicole Burger | IEB | nburger@ieb-chile.cl |
+
+---
+
+## 5) Salidas / productos
+
+### 5.1 Datasets
+
+| Nombre | Tipo | URI / Ubicación | Referencia de esquema |
+|---|---|---|---|
+| `<nombre tabla o archivo>` | `postgis-table` | `<schema.tabla / ruta / url>` | `<link o notas>` |
+
+### 5.2 Artefactos
+
+| Tipo | URI |
+|---|---|
+| `figure` | `<ruta/figura.png>` |
+| `report` | `<ruta/reporte.pdf>` |
+
+### 5.3 Publicación
+
+| Campo | Valor |
+|---|---|
+| **Dashboard** | `<url/opcional>` |
+| **Versión publicada** | `<vX.Y>` |
+
+---
+
+## 6) Ejecución rápida
+
 - **Cómo correr:** `python script.py --param ...` o “Run All” en notebook
-- **Tiempo estimado:** <opcional>
+- **Tiempo estimado:** `<opcional>`
 - **Salida principal:** `<uri output principal>`
 
-## Notas
+---
+
+## 7) Notas
+
 Cualquier observación operacional: credenciales, endpoints inestables, límites de API, etc.
