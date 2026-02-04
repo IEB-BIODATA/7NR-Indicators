@@ -1,2 +1,0 @@
-Requirement already satisfied: pyproj in /opt/conda/lib/python3.11/site-packages (3.7.2)
-Requirement already satisfied: certifi in /opt/conda/lib/python3.11/site-packages (from pyproj) (2025.10.5)
