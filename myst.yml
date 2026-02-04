@@ -1,0 +1,112 @@
+version: 1
+
+project:
+  title: 7NR Indicators
+  description: Indicadores 7NR - documentación y notebooks
+
+  toc:
+    - file: index.md
+
+    - file: ./objectives/objetivo_I.md
+      children:
+        - file: ./goals/I_1.md
+          children:
+            - file: ./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb
+
+        - file: ./goals/I_2.md
+          children:
+            - file: ./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb
+            - file: ./indicators/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/mn2.ipynb
+
+        - file: ./goals/I_3.md
+          children:
+            - file: ./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb
+
+        - file: ./goals/I_4.md
+          children:
+            - file: ./indicators/I_4_numero_de_especies_clasificadas/MN4.ipynb
+
+        - file: ./goals/I_5.md
+          children:
+            - file: ./indicators/A_3_rli/a_3_rli.ipynb
+
+        - file: ./goals/I_6.md
+          children:
+            - file: ./indicators/A_3_rli/a_3_rli.ipynb
+            - file: ./indicators/I_6_planes_recoge_y_especies_incluidas/MN6_recoge.ipynb
+
+        - file: ./goals/I_7.md
+        - file: ./goals/I_8.md
+        - file: ./goals/I_9.md
+        - file: ./goals/I_10.md
+
+        - file: ./goals/I_11.md
+          children:
+            - file: ./indicators/A_3_rli/a_3_rli.ipynb
+
+        - file: ./goals/I_12.md
+
+        - file: ./goals/I_13.md
+          children:
+            - file: ./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb
+            - file: ./indicators/A_3_rli/a_3_rli.ipynb
+
+    - file: ./objectives/objetivo_II.md
+      children:
+        - file: ./goals/II_14.md
+        - file: ./goals/II_15.md
+        - file: ./goals/II_16.md
+        - file: ./goals/II_17.md
+
+        - file: ./goals/II_18.md
+          children:
+            - file: ./indicators/12_1_average_area_gree_blue/12_1_average_area_gree_blue.ipynb
+
+        - file: ./goals/II_19.md
+        - file: ./goals/II_20.md
+        - file: ./goals/II_21.md
+        - file: ./goals/II_22.md
+
+        - file: ./goals/II_23.md
+
+        - file: ./goals/II_24.md
+        - file: ./goals/II_25.md
+        - file: ./goals/II_26.md
+        - file: ./goals/II_27.md
+
+    - file: ./objectives/objetivo_III.md
+      children:
+        - file: ./goals/III_28.md
+        - file: ./goals/III_29.md
+        - file: ./goals/III_30.md
+
+    - file: ./objectives/objetivo_VI.md
+      children:
+        - file: ./goals/IV_31.md
+          children:
+            - file: ./indicators/D_1_international_public_funding/D.1.ipynb
+            - file: ./indicators/D_2_domestic_public_funding/D_2.ipynb
+
+        - file: ./goals/IV_32.md
+        - file: ./goals/IV_33.md
+
+        - file: ./goals/IV_34.md
+          children:
+            - file: ./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb
+
+        - file: ./goals/IV_35.md
+
+    - file: ./objectives/objetivo_V.md
+      children:
+        - file: ./goals/V_36.md
+        - file: ./goals/V_37.md
+        - file: ./goals/V_38.md
+        - file: ./goals/V_39.md
+
+  exclude:
+    - "_build/**"
+    - "**/.ipynb_checkpoints/**"
+    - "**/__pycache__/**"
+
+site:
+  template: book-theme
