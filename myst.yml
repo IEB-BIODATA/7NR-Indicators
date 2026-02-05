@@ -1,7 +1,6 @@
 version: 1
 
 project:
-  title: 7NR indicadores
   description: Indicadores 7NR - documentación y notebooks
 
   toc:
@@ -111,3 +110,7 @@ project:
 
 site:
   template: book-theme
+  options:
+    logo_text: "Indicadores Estrategia Nacional de Biodiversidad"
+  parts:
+    footer: footer.md

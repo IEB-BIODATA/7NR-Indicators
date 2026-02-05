@@ -1,4 +1,4 @@
-# 7NR indicadores
+# Índice
 
 Bienvenido/a al repositorio de **indicadores para el 7NR** (Séptimo Informe Nacional) de Chile.
 
