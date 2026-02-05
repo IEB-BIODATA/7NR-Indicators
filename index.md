@@ -1,4 +1,4 @@
-# 7NR Indicators
+# 7NR indicadores
 
 Bienvenido/a al repositorio de **indicadores para el 7NR** (Séptimo Informe Nacional) de Chile.
 
@@ -19,37 +19,37 @@ Este sitio documenta:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="13"><a href="./objectives/objetivo_I.md">Objetivo I</a></td>
-      <td><a href="./goals/I_1.md">Meta Nacional I.1</a></td>
+      <td rowspan="13"><a href="./objetivos/objetivo_I.md">Objetivo I</a></td>
+      <td><a href="./metas/I_1.md">Meta Nacional I.1</a></td>
       <td>
         <ul>
-          <li><a href="./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
           <li>B.1 Services provided by ecosystems</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional I.2</td>
-       <td><ul><li><a href="./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./indicators/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/mn2.ipynb">Indicador I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
+       <td><ul><li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./indicadores/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/mn2.ipynb">Indicador I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.3</td>
       <td>
         <ul>
           <li>2.2 Area under restoration</li>
-          <li><a href="./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional I.4</td>
-      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="./indicators/I_4_numero_de_especies_clasificadas/MN4.ipynb">Indicador I4: número de especies clasificadas</li></ul></td>
+      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="./indicadores/I_4_numero_de_especies_clasificadas/MN4.ipynb">Indicador I4: número de especies clasificadas</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.5</td>
       <td>
         <ul>
-          <li><a href="./indicators/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -58,7 +58,7 @@ Este sitio documenta:
       <td>Meta Nacional I.6</td>
       <td>
         <ul>
-          <li><a href="./indicators/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
           <li><a href="I_6_planes_recoge_y_especies_incluidas/MN6_recoge.ipynb">Indicador I6: planes RECOGE y especies incluidas</a></li>
         </ul>
@@ -92,7 +92,7 @@ Este sitio documenta:
       <td>Meta Nacional I.11</td>
       <td>
         <ul>
-          <li><a href="./indicators/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -109,7 +109,7 @@ Este sitio documenta:
       <td>Meta Nacional I.13</td>
       <td>
         <ul>
-          <li><a href="./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
           <li>6.1 Rate of invasive alien species establishment</li>
           <li><a href="A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
@@ -156,7 +156,7 @@ Este sitio documenta:
       <td>Meta Nacional II.18</td>
       <td>
         <ul>
-          <li><a href="./indicators/12_1_average_area_gree_blue/12_1_average_area_gree_blue.ipynb">12.1 Average share of green/blue space (urban) for public use</a></li>
+          <li><a href="./indicadores/12_1_average_area_gree_blue/12_1_average_area_gree_blue.ipynb">12.1 Average share of green/blue space (urban) for public use</a></li>
         </ul>
       </td>
     </tr>
@@ -194,7 +194,7 @@ Este sitio documenta:
         <ul>
           <li>7.1 Index of coastal eutrophication potential</li>
           <li>7.2 Pesticide environment concentration</li>
-          <li><a href="./indicators/I_23_tablas_normas_de_calidad/">Indicador I23: tablas normas de calidad</a></li>
+          <li><a href="./indicadores/I_23_tablas_normas_de_calidad/">Indicador I23: tablas normas de calidad</a></li>
         </ul>
       </td>
     </tr>
@@ -257,7 +257,7 @@ Este sitio documenta:
       <td>Meta Nacional IV.31</td>
       <td>
         <ul>
-          <li><a href="./indicators/D_1_international_public_funding/D.1.ipynb">Indicador D.1 International public funding, including official development assistance (ODA), on conservation and sustainable use of biodiversity</a></li>
+          <li><a href="./indicadores/D_1_international_public_funding/D.1.ipynb">Indicador D.1 International public funding, including official development assistance (ODA), on conservation and sustainable use of biodiversity</a></li>
           <li>D.2 Domestic public funding on conservation and sustainable use of biodiversity</li>
           <li>D.3 Private funding (domestic and international) on conservation and sustainable use of biodiversity</li>
         </ul>
@@ -275,7 +275,7 @@ Este sitio documenta:
       <td>Meta Nacional IV.34</td>
       <td>
         <ul>
-          <li><a href="./indicators/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
         </ul>
       </td>
     </tr>
