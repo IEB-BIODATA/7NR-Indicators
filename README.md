@@ -12,33 +12,33 @@
       <td>Meta Nacional I.1</td>
       <td>
         <ul>
-          <li><a href="./indicators/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
           <li>B.1 Services provided by ecosystems</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional I.2</td>
-       <td><ul><li><a href="./indicators/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./indicators/Meta_Nacional_I2_planes_de_manejo/">Indicador I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
+       <td><ul><li><a href="./indicadores/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./indicadores/Meta_Nacional_I2_planes_de_manejo/">Indicador I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.3</td>
       <td>
         <ul>
           <li>2.2 Area under restoration</li>
-          <li><a href="./indicators/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional I.4</td>
-      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="./indicators/I_4_numero_de_especies_clasificadas/">Indicador I4: número de especies clasificadas</li></ul></td>
+      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="./indicadores/I_4_numero_de_especies_clasificadas/">Indicador I4: número de especies clasificadas</li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.5</td>
       <td>
         <ul>
-          <li><a href="./indicators/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -47,9 +47,9 @@
       <td>Meta Nacional I.6</td>
       <td>
         <ul>
-          <li><a href="./indicators/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
-          <li><a href="./indicators/Meta_Nacional_I6_planes_RECOGE/">Indicador I6: planes RECOGE y especies incluidas</a></li>
+          <li><a href="./indicadores/Meta_Nacional_I6_planes_RECOGE/">Indicador I6: planes RECOGE y especies incluidas</a></li>
         </ul>
       </td>
     </tr>
@@ -81,7 +81,7 @@
       <td>Meta Nacional I.11</td>
       <td>
         <ul>
-          <li><a href="./indicators/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -98,9 +98,9 @@
       <td>Meta Nacional I.13</td>
       <td>
         <ul>
-          <li><a href="./indicators/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
           <li>6.1 Rate of invasive alien species establishment</li>
-          <li><a href="./indicators/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -145,7 +145,7 @@
       <td>Meta Nacional II.18</td>
       <td>
         <ul>
-          <li><a href="./indicators/12.1_Average_Area_Gree_Blue/">12.1 Average share of green/blue space (urban) for public use</a></li>
+          <li><a href="./indicadores/12.1_Average_Area_Gree_Blue/">12.1 Average share of green/blue space (urban) for public use</a></li>
         </ul>
       </td>
     </tr>
@@ -183,7 +183,7 @@
         <ul>
           <li>7.1 Index of coastal eutrophication potential</li>
           <li>7.2 Pesticide environment concentration</li>
-          <li><a href="./indicators/Meta_Nacional_I23_Normas_de_Calidad/">Indicador I23: tablas normas de calidad</a></li>
+          <li><a href="./indicadores/Meta_Nacional_I23_Normas_de_Calidad/">Indicador I23: tablas normas de calidad</a></li>
         </ul>
       </td>
     </tr>
@@ -246,7 +246,7 @@
       <td>Meta Nacional IV.31</td>
       <td>
         <ul>
-          <li><a href="./indicators/D_1_international_public_funding/">Indicador D.1 International public funding, including official development assistance (ODA), on conservation and sustainable use of biodiversity</a></li>
+          <li><a href="./indicadores/D_1_international_public_funding/">Indicador D.1 International public funding, including official development assistance (ODA), on conservation and sustainable use of biodiversity</a></li>
           <li>D.2 Domestic public funding on conservation and sustainable use of biodiversity</li>
           <li>D.3 Private funding (domestic and international) on conservation and sustainable use of biodiversity</li>
         </ul>
@@ -264,7 +264,7 @@
       <td>Meta Nacional IV.34</td>
       <td>
         <ul>
-          <li><a href="./indicators/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
         </ul>
       </td>
     </tr>
