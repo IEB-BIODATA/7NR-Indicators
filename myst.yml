@@ -38,6 +38,8 @@ project:
 
         - file: ./metas/I_7.md
         - file: ./metas/I_8.md
+          children:
+            - file: ./indicadores/2_1_Area_under_restoration/2_1_Area_under_restoration.ipynb
         - file: ./metas/I_9.md
         - file: ./metas/I_10.md
 
