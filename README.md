@@ -90,7 +90,7 @@
       <td>Meta Nacional I.12</td>
       <td>
         <ul>
-          <li>6.1 Rate of invasive alien species establishment</li>
+          <li><a href="./6.1_Rate_of_invasive_species/">6.1 Rate of invasive alien species establishment</li>
         </ul>
       </td>
     </tr>
@@ -99,7 +99,7 @@
       <td>
         <ul>
           <li><a href="./3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
-          <li>6.1 Rate of invasive alien species establishment</li>
+          <li><a href="./6.1_Rate_of_invasive_species/">6.1 Rate of invasive alien species establishment</li>
           <li><a href="./A.3_RLI/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
