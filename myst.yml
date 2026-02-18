@@ -34,7 +34,7 @@ project:
         - file: ./metas/I_6.md
           children:
             - file: ./indicadores/A_3_rli/a_3_rli.ipynb
-            - file: ./indicadores/I_6_planes_recoge_y_especies_incluidas/MN6_recoge.ipynb
+            - file: ./indicadores/I_6_planes_recoge_y_especies_incluidas/I_6_planes_RECOGE.ipynb
 
         - file: ./metas/I_7.md
         - file: ./metas/I_8.md
