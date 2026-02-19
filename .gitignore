@@ -207,3 +207,6 @@ database/
 
 # Temporal Data
 *.csv
+
+# Archivos de pipenv
+Pipfile*
