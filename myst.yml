@@ -42,7 +42,8 @@ project:
             - file: ./indicadores/2_1_Area_under_restoration/2_1_Area_under_restoration.ipynb
         - file: ./metas/I_9.md
         - file: ./metas/I_10.md
-
+          children:
+            - file: ./indicadores/A_2_Extent_of_natural_ecosystems/A_2_Extent_of_natural_ecosystems.ipynb
         - file: ./metas/I_11.md
           children:
             - file: ./indicadores/A_3_rli/a_3_rli.ipynb
