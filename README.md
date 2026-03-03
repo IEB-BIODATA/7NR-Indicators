@@ -38,7 +38,7 @@
       <td>Meta Nacional I.5</td>
       <td>
         <ul>
-          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -47,7 +47,7 @@
       <td>Meta Nacional I.6</td>
       <td>
         <ul>
-          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
           <li><a href="./indicadores/Meta_Nacional_I6_planes_RECOGE/">Indicador I6: planes RECOGE y especies incluidas</a></li>
         </ul>
@@ -72,7 +72,7 @@
       <td>
         <ul>
           <li>1.1 Percentage of land and sea area covered by biodiversity-inclusive spatial plans</li>
-          <li>A.1 Red List of Ecosystems</li>
+          <li><a href="./indicadores/A_1_red_list_of_ecosystems/">A.1 Red List of Ecosystems</a></li>
           <li>A.2 Extent of natural ecosystems</li>
         </ul>
       </td>
@@ -81,7 +81,7 @@
       <td>Meta Nacional I.11</td>
       <td>
         <ul>
-          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
@@ -100,7 +100,7 @@
         <ul>
           <li><a href="./indicadores/3.1_Percentage_protected_area_coverage/">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
           <li><a href="./indicadores/6_1_Rate_of_invasive_species/">6.1 Rate of invasive alien species establishment</a></li>
-          <li><a href="./indicadores/A.3_RLI/">A.3 Red List Index</a></li>
+          <li><a href="./indicadores/A_3_rli/">A.3 Red List Index</a></li>
           <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
