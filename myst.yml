@@ -43,6 +43,7 @@ project:
         - file: ./metas/I_9.md
         - file: ./metas/I_10.md
           children:
+            - file: ./indicadores/A_1_red_list_of_ecosystems/A_1_red_list_of_ecosystems.ipynb
             - file: ./indicadores/A_2_Extent_of_natural_ecosystems/A_2_Extent_of_natural_ecosystems.ipynb
         - file: ./metas/I_11.md
           children:
