@@ -210,3 +210,7 @@ database/
 
 # Archivos de pipenv
 Pipfile*
+
+# add a folder and files inside the folder to ignore
+/indicadores/6_1_Rate_of_invasive_species/data/
+/indicadores/6_1_Rate_of_invasive_species/output/
