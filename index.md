@@ -36,8 +36,8 @@ Este sitio documenta:
       <td>Meta Nacional I.3</td>
       <td>
         <ul>
-          <li>2.2 Area under restoration</li>
-          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li>Indic_nac_3 Superficie de Humedales Urbanos protegidos</li>
+          <li><a href="./indicadores/I_3_humedales_urbanos/I_3_humedales_urbanos.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
         </ul>
       </td>
     </tr>
