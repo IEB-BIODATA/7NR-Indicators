@@ -30,14 +30,18 @@ Este sitio documenta:
     </tr>
     <tr>
       <td>Meta Nacional I.2</td>
-       <td><ul><li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li><li><a href="./indicadores/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/mn2.ipynb">Indicador I2: áreas protegidas con planes de Manejo y Gestión Efectiva</li></li></ul></td>
+      <td>
+        <ul>
+          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/mn2.ipynb">Indicador I2: Áreas protegidas con planes de Manejo y Gestión Efectiva</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Meta Nacional I.3</td>
       <td>
         <ul>
-          <li>2.2 Area under restoration</li>
-          <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
+          <li><a href="./indicadores/I_3_humedales_urbanos/I_3_humedales_urbanos.ipynb">Indicador I3: Superficie de Humedales Urbanos protegidos</a></li>
         </ul>
       </td>
     </tr>
@@ -314,4 +318,3 @@ Este sitio documenta:
     </tr>
   </tbody>
 </table>
-
