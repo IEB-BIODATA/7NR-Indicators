@@ -20,7 +20,6 @@ project:
 
         - file: ./metas/I_3.md
           children:
-            - file: ./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb
             - file: ./indicadores/I_3_humedales_urbanos/I_3_humedales_urbanos.ipynb
 
         - file: ./metas/I_4.md
