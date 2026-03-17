@@ -67,7 +67,7 @@ project:
 
         - file: ./metas/II_18.md
           children:
-            - file: ./indicadores/12_1_average_area_gree_blue/12_1_average_area_gree_blue.ipynb
+            - file: ./indicadores/12_1_average_area_green_blue/12_1_average_area_green_blue.ipynb
 
 
         - file: ./metas/II_19.md
