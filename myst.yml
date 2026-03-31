@@ -88,7 +88,7 @@ project:
         - file: ./metas/III_29.md
         - file: ./metas/III_30.md
 
-    - file: ./objetivos/objetivo_VI.md
+    - file: ./objetivos/objetivo_IV.md
       children:
         - file: ./metas/IV_31.md
           children:
@@ -126,6 +126,6 @@ project:
 site:
   template: book-theme
   options:
-    logo_text: "Indicadores Estrategia Nacional de Biodiversidad"
+    logo_text: "Sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad (ENB)"
   parts:
     footer: footer.md

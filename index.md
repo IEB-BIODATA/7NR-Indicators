@@ -1,11 +1,5 @@
-# Índice
+La plataforma del sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad constituye una infraestructura integrada para la gestión, análisis y reporte de información, orientada a evaluar el progreso hacia las metas nacionales en coherencia con el Marco Global de Biodiversidad. Su propósito es transformar datos provenientes de múltiples fuentes en indicadores trazables y comparables, fortaleciendo la toma de decisiones basada en evidencia, la transparencia y el reporte de avances en la implementación de la estrategia
 
-Bienvenido/a al repositorio de **indicadores para el 7NR** (Séptimo Informe Nacional) de Chile.
-
-Este sitio documenta:
-- el **catálogo de indicadores** (definiciones, fuentes, supuestos),
-- el **cálculo reproducible** (scripts / notebooks),
-- y los **productos** (tablas, figuras y resultados exportables).
 
 ---
 
@@ -24,7 +18,6 @@ Este sitio documenta:
       <td>
         <ul>
           <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
-          <li>B.1 Services provided by ecosystems</li>
         </ul>
       </td>
     </tr>
@@ -47,14 +40,13 @@ Este sitio documenta:
     </tr>
     <tr>
       <td>Meta Nacional I.4</td>
-      <td><ul><li>2.2 Area under restoration</li><li>3.1 Coverage of protected areas and other effective area-based conservation measures</li><li><a href="./indicadores/I_4_numero_de_especies_clasificadas/MN4.ipynb">Indicador I4: número de especies clasificadas</li></ul></td>
+      <td><ul><li><a href="./indicadores/I_4_numero_de_especies_clasificadas/MN4.ipynb">Indicador I4: número de especies clasificadas</a></li></ul></td>
     </tr>
     <tr>
       <td>Meta Nacional I.5</td>
       <td>
         <ul>
           <li><a href="./indicadores/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
-          <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
     </tr>
@@ -63,32 +55,40 @@ Este sitio documenta:
       <td>
         <ul>
           <li><a href="./indicadores/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
-          <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
-          <li><a href="I_6_planes_recoge_y_especies_incluidas/MN6_recoge.ipynb">Indicador I6: planes RECOGE y especies incluidas</a></li>
+          <li><a href="./indicadores/I_6_planes_recoge_y_especies_incluidas/I_6_planes_RECOGE.ipynb">Indicador I6: planes RECOGE y especies incluidas</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional I.7</td>
-      <td rowspan="3">
+      <td>
         <ul>
-          <li>2.2 Area under restoration</li>
+          <li><a href="./indicadores/2_1_Area_under_restoration/2_1_Area_under_restoration.ipynb">2.2 Area under restoration</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional I.8</td>
+      <td>
+        <ul>
+          <li><a href="./indicadores/2_1_Area_under_restoration/2_1_Area_under_restoration.ipynb">2.2 Area under restoration</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Meta Nacional I.9</td>
+      <td>
+        <ul>
+          <li><a href="./indicadores/2_1_Area_under_restoration/2_1_Area_under_restoration.ipynb">2.2 Area under restoration</a></li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Meta Nacional I.10</td>
       <td>
         <ul>
-          <li>1.1 Percentage of land and sea area covered by biodiversity-inclusive spatial plans</li>
-          <li>A.1 Red List of Ecosystems</li>
-          <li>A.2 Extent of natural ecosystems</li>
+          <li><a href="./indicadores/A_1_red_list_of_ecosystems/A_1_red_list_of_ecosystems.ipynb">A.1 Red List of Ecosystems</a></li>
+          <li><a href="./indicadores/A_2_Extent_of_natural_ecosystems/A_2_Extent_of_natural_ecosystems.ipynb">A.2 Extent of natural ecosystems</a></li>
         </ul>
       </td>
     </tr>
@@ -97,7 +97,6 @@ Este sitio documenta:
       <td>
         <ul>
           <li><a href="./indicadores/A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
-          <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
         </ul>
       </td>
     </tr>
@@ -105,7 +104,7 @@ Este sitio documenta:
       <td>Meta Nacional I.12</td>
       <td>
         <ul>
-          <li>6.1 Rate of invasive alien species establishment</li>
+          <li><a href="./indicadores/6_1_Rate_of_invasive_species/6_1_Rate_of_invasive_species.ipynb">6.1 Rate of invasive alien species establishment</a></li>
         </ul>
       </td>
     </tr>
@@ -114,46 +113,29 @@ Este sitio documenta:
       <td>
         <ul>
           <li><a href="./indicadores/3_1_percentage_protected_area_coverage/3_1_Percentage_protected_area_coverage.ipynb">3.1 Coverage of protected areas and other effective area-based conservation measures</a></li>
-          <li>6.1 Rate of invasive alien species establishment</li>
-          <li><a href="A_3_rli/a_3_rli.ipynb">A.3 Red List Index</a></li>
-          <li>A.4 The proportion of populations within species with an extinction risk above precautionary thresholds</li>
+          <li><a href="./indicadores/6_1_Rate_of_invasive_species/6_1_Rate_of_invasive_species.ipynb">6.1 Rate of invasive alien species establishment</a></li>
         </ul>
       </td>
-    </tr>
-    <tr>
+</tr>
+<tr>
       <td rowspan="14">Objetivo II</td>
       <td>Meta Nacional II.14</td>
       <td>
-        <ul>
-          <li>18.1 Positive incentives in place to promote biodiversity conservation and sustainable use</li>
-          <li>18.2 Value of subsidies and other incentives harmful to biodiversity that have been eliminated, phased out or reformed</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.15</td>
       <td>
-        <ul>
-          <li>18.1 Positive incentives in place to promote biodiversity conservation and sustainable use</li>
-          <li>18.2 Value of subsidies and other incentives harmful to biodiversity that have been eliminated, phased out or reformed</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.16</td>
       <td>
-        <ul>
-          <li>2.2 Area under restoration</li>
-          <li>B.1 Services provided by ecosystems</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.17</td>
       <td>
-        <ul>
-          <li>B.1 Services provided by ecosystems</li>
-        </ul>
       </td>
     </tr>
     <tr>
@@ -166,114 +148,75 @@ Este sitio documenta:
     </tr>
     <tr>
       <td>Meta Nacional II.19</td>
-      <td>No tiene indicador</td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional II.20</td>
-      <td>—</td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional II.21</td>
       <td>
-        <ul>
-          <li>10.1 Proportion of agricultural area under productive and sustainable agriculture</li>
-          <li>10.2 Progress towards sustainable forest management</li>
-          <li>15.1 Number of companies reporting on disclosures of risks, dependencies and impacts on biodiversity*</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.22</td>
       <td>
-        <ul>
-          <li>10.1 Proportion of agricultural area under productive and sustainable agriculture</li>
-          <li>10.2 Progress towards sustainable forest management</li>
-          <li>15.1 Number of companies reporting on disclosures of risks, dependencies and impacts on biodiversity*</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.23</td>
       <td>
-        <ul>
-          <li>7.1 Index of coastal eutrophication potential</li>
-          <li>7.2 Pesticide environment concentration</li>
-          <li><a href="./indicadores/I_23_tablas_normas_de_calidad/">Indicador I23: tablas normas de calidad</a></li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.24</td>
       <td>
-        <ul>
-          <li>7.1 Index of coastal eutrophication potential</li>
-          <li>7.2 Pesticide environment concentration</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.25</td>
       <td>
-        <ul>
-          <li>7.1 Index of coastal eutrophication potential</li>
-          <li>7.2 Pesticide environment concentration</li>
-        </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional II.26</td>
-      <td>No tiene indicador</td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional II.27</td>
-      <td>—</td>
+      <td></td>
     </tr>
     <tr>
       <td rowspan="3">Objetivo III</td>
       <td>Meta Nacional III.28</td>
-      <td>
-        <ul>
-          <li>C.1 Indicator on monetary benefits received</li>
-          <li>C.2 Indicator on non-monetary benefits received</li>
-        </ul>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional III.29</td>
-      <td>
-        <ul>
-          <li>C.1 Indicator on monetary benefits received</li>
-          <li>C.2 Indicator on non-monetary benefits received</li>
-        </ul>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional III.30</td>
-      <td>
-        <ul>
-          <li>C.1 Indicator on monetary benefits received</li>
-          <li>C.2 Indicator on non-monetary benefits received</li>
-        </ul>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <td rowspan="5">Objetivo IV</td>
       <td>Meta Nacional IV.31</td>
       <td>
         <ul>
-          <li><a href="./indicadores/D_1_international_public_funding/D.1.ipynb">Indicador D.1 International public funding, including official development assistance (ODA), on conservation and sustainable use of biodiversity</a></li>
-          <li>D.2 Domestic public funding on conservation and sustainable use of biodiversity</li>
-          <li>D.3 Private funding (domestic and international) on conservation and sustainable use of biodiversity</li>
+          <li><a href="./indicadores/D_1_international_public_funding/D.1.ipynb">D.1 International public funding, including official development assistance (ODA), on conservation and sustainable use of biodiversity</a></li>
+          <li><a href="./indicadores/D_2_domestic_public_funding/D_2.ipynb">D.2 Domestic public funding on conservation and sustainable use of biodiversity</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional IV.32</td>
-      <td>No tiene indicador</td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional IV.33</td>
-      <td>No tiene indicador</td>
+      <td></td>
     </tr>
     <tr>
       <td>Meta Nacional IV.34</td>
@@ -285,14 +228,14 @@ Este sitio documenta:
     </tr>
     <tr>
       <td>Meta Nacional IV.35</td>
-      <td>No tiene indicador</td>
+      <td></td>
     </tr>
     <tr>
       <td rowspan="4">Objetivo V</td>
       <td>Meta Nacional V.36</td>
       <td>
         <ul>
-          <li>21.1 Indicator on biodiversity information for monitoring the Kunming-Montreal Global Biodiversity Framework</li>
+          <li><a href="./indicadores/5.1_fish_sostenible/5.1_fish.ipynb">Indicador 5.1 Proporción de las poblaciones de peces dentro de niveles biológicamente sostenibles.</a></li>
         </ul>
       </td>
     </tr>
@@ -300,7 +243,7 @@ Este sitio documenta:
       <td>Meta Nacional V.37</td>
       <td>
         <ul>
-          <li>21.1 Indicator on biodiversity information for monitoring the Kunming-Montreal Global Biodiversity Framework</li>
+         <li><a href="./indicadores/21_1_Indicator_on_biodiversity_information_for_monitoring/21_1_Indicator_on_biodiversity_information_for_monitoring.ipynb">21.1 Indicator on biodiversity information for monitoring the Kunming-Montreal Global Biodiversity Framework</a></li>
         </ul>
       </td>
     </tr>
@@ -308,13 +251,13 @@ Este sitio documenta:
       <td>Meta Nacional V.38</td>
       <td>
         <ul>
-          <li>21.1 Indicator on biodiversity information for monitoring the Kunming-Montreal Global Biodiversity Framework</li>
+          <li><a href="./indicadores/21_1_Indicator_on_biodiversity_information_for_monitoring/21_1_Indicator_on_biodiversity_information_for_monitoring.ipynb">21.1 Indicator on biodiversity information for monitoring the Kunming-Montreal Global Biodiversity Framework</a></li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>Meta Nacional V.39</td>
-      <td>No tiene indicador</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
