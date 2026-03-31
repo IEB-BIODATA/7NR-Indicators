@@ -126,6 +126,9 @@ project:
 site:
   template: book-theme
   options:
+    logo: ./images/enb_logo.png
     logo_text: "Sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad (ENB)"
+    hide_title_block: true
+    hide_outline: true
   parts:
     footer: footer.md
