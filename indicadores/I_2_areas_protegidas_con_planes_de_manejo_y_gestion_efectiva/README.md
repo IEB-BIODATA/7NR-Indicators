@@ -78,7 +78,8 @@
 
 | Tipo | URI |
 |---|---|
-| `figure` | `<ruta/figura.png>` |
+| `figure` | `indicadores/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/figura_categorias.png` |
+| `figure` | `indicadores/I_2_areas_protegidas_con_planes_de_manejo_y_gestion_efectiva/histograma_anio_ultimo_plan.png` |
 | `report` | `<ruta/reporte.pdf>` |
 
 ### 5.3 Publicación
