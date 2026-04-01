@@ -130,5 +130,6 @@ site:
     logo_text: "Sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad (ENB)"
     hide_title_block: true
     hide_outline: true
+    hide_search: true
   parts:
     footer: footer.md
