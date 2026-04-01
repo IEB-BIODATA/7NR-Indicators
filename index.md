@@ -1,6 +1,19 @@
+<h1 class="myst-fm-block-title mb-0">Sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad (ENB)</h1>
+<div class="index-logo-wrapper">
+  <img
+    class="logo-light"
+    src="./images/enb-light.jpeg"
+    alt="Logo ENB"
+    width="100%"
+  />
+  <img
+    class="logo-dark"
+    src="./images/enb-dark.jpeg"
+    alt="Logo ENB"
+    width="100%"
+  />
+</div>
 <p style="text-align:justify;">La plataforma del sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad constituye una infraestructura integrada para la gestión, análisis y reporte de información, orientada a evaluar el progreso hacia las metas nacionales en coherencia con el Marco Global de Biodiversidad. Su propósito es transformar datos provenientes de múltiples fuentes en indicadores trazables y comparables, fortaleciendo la toma de decisiones basada en evidencia, la transparencia y el reporte de avances en la implementación de la estrategia.</p>
-
-<img src="images/enb_header.jpg" width="100%"/>
 
 ---
 

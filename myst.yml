@@ -132,5 +132,6 @@ site:
     hide_title_block: false
     hide_outline: true
     hide_search: true
+    style: ./styles/book-overrides.css
   parts:
     footer: footer.md
