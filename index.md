@@ -1,4 +1,4 @@
-La plataforma del sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad constituye una infraestructura integrada para la gestión, análisis y reporte de información, orientada a evaluar el progreso hacia las metas nacionales en coherencia con el Marco Global de Biodiversidad. Su propósito es transformar datos provenientes de múltiples fuentes en indicadores trazables y comparables, fortaleciendo la toma de decisiones basada en evidencia, la transparencia y el reporte de avances en la implementación de la estrategia
+<p style="text-align:justify;">La plataforma del sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad constituye una infraestructura integrada para la gestión, análisis y reporte de información, orientada a evaluar el progreso hacia las metas nacionales en coherencia con el Marco Global de Biodiversidad. Su propósito es transformar datos provenientes de múltiples fuentes en indicadores trazables y comparables, fortaleciendo la toma de decisiones basada en evidencia, la transparencia y el reporte de avances en la implementación de la estrategia.</p>
 
 <img src="images/enb_header.jpg" width="100%"/>
 
