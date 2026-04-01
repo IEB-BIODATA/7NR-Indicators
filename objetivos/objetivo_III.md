@@ -1,1 +1,5 @@
-# Objetivo III
+# **Objetivo III**
+
+### _Distribuir de forma justa y equitativa los beneficios derivados del uso de los recursos genéticos, reconociendo los conocimientos tradicionales y procurando la participación de Pueblos Indígenas y comunidades locales._
+
+Este objetivo busca avanzar hacia una gestión justa y equitativa de los beneficios derivados del uso de los recursos genéticos, promoviendo la participación de los Pueblos Indígenas y comunidades locales como custodios del patrimonio biológicocultural del país. Se impulsa la creación de un marco legal que regule el acceso y la distribución de beneficios, asegurando mecanismos transparentes, inclusivos y respetuosos de los derechos colectivos. Asimismo, promueve la valoración e integración de los conocimientos tradicionales asociados a la conservación y uso sostenible de la biodiversidad en las políticas e instrumentos de gestión, fortaleciendo los vínculos entre diversidad biológica y diversidad cultural. De esta forma, se busca consolidar una gobernanza de la biodiversidad más participativa y equitativa, que reconozca los aportes históricos y presentes de las comunidades locales en la protección y uso sostenible de la biodiversidad.
