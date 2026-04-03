@@ -6,19 +6,19 @@
 
 | Campo | Valor |
 |---|---|
-| **Código** | `<codigo>` *(ej: IND-01)* |
-| **Nombre** | `<nombre indicador>` |
-| **Objetivo** | `<qué mide y por qué importa>` |
-| **Unidad** | `<unidad>` *(ej: %, ha, km², n°)* |
-| **Resumen de fórmula** | Resumen legible de la fórmula (sin detalles excesivos). |
+| **Código** | `A_3` *(ej: IND-01)* |
+| **Nombre** | `A.3 Red List Index` |
+| **Objetivo** | `El Red List Index mide el riesgo promedio de extinción de un conjunto de especies a partir de sus categorías UICN. Se basa en asignar un puntaje a cada categoría y calcular un índice agregado para un año dado.` |
+| **Unidad** | `Index (0-1)` *(ej: %, ha, km², n°)* |
+| **Resumen de fórmula** | RLIt=1−Rt/Rmax​, Rmax=N×5 Rt=∑Wi,t​ |
 | **Referencia metodología** | `<doc_url o nombre doc>` |
 
 **Supuestos**
-- `<supuesto 1>`
-- `<supuesto 2>`
+- `La fórmula requiere que todos los años tengan el mismo número de especies para un cálculo estable de Rmax=N×5. Se sugieren 2 alternativas para evaluar. 1. Calcular con N = todas las especies de la lista (aunque su primer registro no sea el primer año) 2. Calcular con N = todas las especies de catálogo (aunque aún no tengan categoría).`
+- `Las especies sin datos entran como DD = Data Deficient.`
 
 **Limitaciones**
-- `<limitación 1>`
+- `Catálogo de especies`
 
 ---
 
@@ -26,23 +26,22 @@
 
 ### 2.1 Fuentes
 
-| Fuente | Tipo | URI / Tabla / Ruta | Dueño | Licencia | Acceso | Refresh | Esquema esperado |
+| Fuente | Tipo | URI / Tabla / Ruta | Dueño | Licencia | Acceso |
 |---|---|---|---|---|---|---|---|
-| `<fuente>` | `wms/wfs/api/csv/shp/geopackage/db` | `<url/tabla/ruta>` | `<institución>` | `<licencia>` | `public` | `mensual` | `<link o descripción>` |
+| `Listado de Especies Clasificadas desde el 1º al 19º Proceso de Clasificación RCE (actualizado a junio de 2025)` | `Excel` | `https://clasificacionespecies.mma.gob.cl/` | `MMA – Ministerio del Medio Ambiente` | `<licencia>` | `Público` |
 
 ### 2.2 Cobertura
 
 | Campo | Valor |
 |---|---|
-| **Cobertura temporal (inicio)** | `YYYY-MM-DD` |
-| **Cobertura temporal (fin)** | `YYYY-MM-DD` |
-| **Cobertura espacial (CRS)** | `EPSG:4326` |
-| **Extensión** | `<bbox o descripción>` |
+| **Cobertura temporal (inicio)** | `1997-01-01` |
+| **Cobertura temporal (fin)** | `2026-01-01` |
+| **Cobertura espacial (CRS)** | `N/A` |
+| **Extensión** | `N/A` |
 
 ### 2.3 Preprocesamiento
 
-- Validación geometrías (`make_valid`)
-- Filtro por atributo X
+- 
 
 ---
 
@@ -52,8 +51,8 @@
 |---|---|
 | **Creación** | `2026-01-31` |
 | **Última modificación** | `2026-01-31` |
-| **Última ejecución exitosa** | `2026-01-31 09:00` |
-| **Última publicación de resultados** | `YYYY-MM-DD` |
+| **Última ejecución exitosa** | `2026-01-31` |
+| **Última publicación de resultados** | `2026-02-28` |
 
 ---
 

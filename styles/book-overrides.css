@@ -1,0 +1,19 @@
+.logo-dark {
+  display: none;
+}
+
+.dark .logo-light {
+  display: none;
+}
+
+.dark .logo-dark {
+  display: inline;
+}
+
+.light .logo-light {
+  display: inline;
+}
+
+.light .logo-dark {
+  display: none;
+}
