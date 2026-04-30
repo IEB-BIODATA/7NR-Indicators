@@ -1,4 +1,4 @@
-<h1 class="myst-fm-block-title mb-0">Sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad (ENB)</h1>
+<h1 class="myst-fm-block-title mb-0">Bienvenido a la Plataforma de Seguimiento de la Estrategia Nacional de Biodiversidad</h1>
 <div class="index-logo-wrapper">
   <img
     class="logo-light"
@@ -13,7 +13,27 @@
     width="100%"
   />
 </div>
-<p style="text-align:justify;">La plataforma del sistema de seguimiento y monitoreo de la Estrategia Nacional de Biodiversidad constituye una infraestructura integrada para la gestión, análisis y reporte de información, orientada a evaluar el progreso hacia las metas nacionales en coherencia con el Marco Global de Biodiversidad. Su propósito es transformar datos provenientes de múltiples fuentes oficiales en indicadores trazables y comparables, fortaleciendo la toma de decisiones basada en evidencia, transparencia de la información y el reporte de avances en la implementación de la estrategia.
+<p style="text-align:justify;">Este reporte digital presenta, de manera integrada, los avances de Chile hacia el cumplimiento de las metas de la [Estrategia Nacional de Biodiversidad (ENB)](https://biodiversidad.mma.gob.cl/) reportadas ante la [Convención de la Diversidad Biológica (CBD)(https://biodiversidad.mma.gob.cl/)] en el Séptimo Informe Nacional (2026).
+
+Esta plataforma representa un salto tecnológico en cómo monitoreamos nuestra biodiversidad. Funciona como un flujo continuo y transparente: recopila los datos desde su origen, los analiza de forma abierta y los transforma en información clara y alineada con el [Marco Global de Biodiversidad de Kunming-Montreal de la CBD](https://www-cbd-int.translate.goog/gbf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc).
+
+Por primera vez, el reporte nacional se estructura sobre indicadores estandarizados, permitiendo evaluar el progreso de manera comparable y basada en evidencia, conforme al nuevo [Marco de Monitoreo](https://www.cbd.int/gbf/related/monitoring) adoptado bajo el acuerdo de Kunming-Montreal. Esta plataforma permite explorar directamente los indicadores, comprender cómo se sustentan los avances reportados y visualizar las relaciones entre datos, evidencia y toma de decisiones.
+
+A través de la plataforma, es posible navegar por los cinco objetivos que Chile se ha propuesto en su ENB, así como por las 39 metas que tributan a dichos objetivos, accediendo en cada una de ellas a:
+
+- Estado de avance de la meta
+- Principales acciones implementadas
+- Resultados alcanzados
+- Brechas y desafíos pendientes
+- Ejemplos e iniciativas relevantes
+- Vínculos con los Objetivos de Desarrollo Sostenible
+- Indicadores estandarizados y hojas de cálculo que sustentan la evaluación del progreso, cuando corresponde.
+
+Siguiendo el Marco de Monitoreo de la CBD, la plataforma integra distintos tipos de indicadores. Se incluyen los indicadores de cabecera de reporte obligatorio, complementados por indicadores nacionales desarrollados para reflejar las particularidades de las metas de Chile.
+
+Los indicadores de cabecera se presentan con sus títulos originales en inglés, conforme a la nomenclatura oficial de la CBD, mientras que los indicadores nacionales se muestran en español.
+
+Esta plataforma muestra cómo una arquitectura de seguimiento basada en datos interoperables, análisis reproducibles y reporte digital puede fortalecer la implementación de la ENB y apoyar la toma de decisiones informada para la conservación y el uso sostenible de la biodiversidad.
 </p>
 
 ---

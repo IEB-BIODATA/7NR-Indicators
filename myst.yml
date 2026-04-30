@@ -2,10 +2,6 @@ version: 1
 
 project:
   description: Indicadores 7NR - documentación y notebooks
-  jupyter:
-    server:
-      url: https://jupyter.7nr.ieb-chile.cl/
-      token: G34w9:4C)Me&
   toc:
     - file: index.md
 
