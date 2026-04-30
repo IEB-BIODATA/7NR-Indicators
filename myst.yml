@@ -2,7 +2,6 @@ version: 1
 
 project:
   description: Indicadores 7NR - documentación y notebooks
-
   toc:
     - file: index.md
 
