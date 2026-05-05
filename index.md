@@ -13,11 +13,11 @@
     width="100%"
   />
 </div>
-<p style="text-align:justify;">Este reporte digital presenta, de manera integrada, los avances de Chile hacia el cumplimiento de las metas de la [Estrategia Nacional de Biodiversidad (ENB)](https://biodiversidad.mma.gob.cl/) reportadas ante la [Convención de la Diversidad Biológica (CBD)(https://biodiversidad.mma.gob.cl/)] en el Séptimo Informe Nacional (2026).
+<p style="text-align:justify;">Este reporte digital presenta, de manera integrada, los avances de Chile hacia el cumplimiento de las metas de la <a href="https://biodiversidad.mma.gob.cl/">Estrategia Nacional de Biodiversidad (ENB)</a> reportadas ante la <a href="https://www.cbd.int/">Convención de la Diversidad Biológica (CBD)</a> en el Séptimo Informe Nacional (2026).
 
-Esta plataforma representa un salto tecnológico en cómo monitoreamos nuestra biodiversidad. Funciona como un flujo continuo y transparente: recopila los datos desde su origen, los analiza de forma abierta y los transforma en información clara y alineada con el [Marco Global de Biodiversidad de Kunming-Montreal de la CBD](https://www-cbd-int.translate.goog/gbf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc).
+Esta plataforma representa un salto tecnológico en cómo monitoreamos nuestra biodiversidad. Funciona como un flujo continuo y transparente: recopila los datos desde su origen, los analiza de forma abierta y los transforma en información clara y alineada con el <a href="https://www.cbd.int/gbf">Marco Global de Biodiversidad de Kunming-Montreal de la CBD</a>.
 
-Por primera vez, el reporte nacional se estructura sobre indicadores estandarizados, permitiendo evaluar el progreso de manera comparable y basada en evidencia, conforme al nuevo [Marco de Monitoreo](https://www.cbd.int/gbf/related/monitoring) adoptado bajo el acuerdo de Kunming-Montreal. Esta plataforma permite explorar directamente los indicadores, comprender cómo se sustentan los avances reportados y visualizar las relaciones entre datos, evidencia y toma de decisiones.
+Por primera vez, el reporte nacional se estructura sobre indicadores estandarizados, permitiendo evaluar el progreso de manera comparable y basada en evidencia, conforme al nuevo <a href="https://www.cbd.int/gbf/related/monitoring">Marco de Monitoreo</a> adoptado bajo el acuerdo de Kunming-Montreal. Esta plataforma permite explorar directamente los indicadores, comprender cómo se sustentan los avances reportados y visualizar las relaciones entre datos, evidencia y toma de decisiones.
 
 A través de la plataforma, es posible navegar por los cinco objetivos que Chile se ha propuesto en su ENB, así como por las 39 metas que tributan a dichos objetivos, accediendo en cada una de ellas a:
 
