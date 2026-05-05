@@ -1,4 +1,4 @@
-<h1 class="myst-fm-block-title mb-0">Bienvenido a la Plataforma de Seguimiento de la Estrategia Nacional de Biodiversidad</h1>
+<h1 class="myst-fm-block-title mb-0">Bienvenido/a a la Plataforma de Seguimiento de la Estrategia Nacional de Biodiversidad</h1>
 <div class="index-logo-wrapper">
   <img
     class="logo-light"
@@ -13,14 +13,22 @@
     width="100%"
   />
 </div>
-<p style="text-align:justify;">Este reporte digital presenta, de manera integrada, los avances de Chile hacia el cumplimiento de las metas de la <a href="https://biodiversidad.mma.gob.cl/">Estrategia Nacional de Biodiversidad (ENB)</a> reportadas ante la <a href="https://www.cbd.int/">Convención de la Diversidad Biológica (CBD)</a> en el Séptimo Informe Nacional (2026).
+<p style="text-align:justify;">
 
-Esta plataforma representa un salto tecnológico en cómo monitoreamos nuestra biodiversidad. Funciona como un flujo continuo y transparente: recopila los datos desde su origen, los analiza de forma abierta y los transforma en información clara y alineada con el <a href="https://www.cbd.int/gbf">Marco Global de Biodiversidad de Kunming-Montreal de la CBD</a>.
+En esta plataforma podrá acceder a información clara y actualizada sobre las metas de la [Estrategia Nacional de Biodiversidad (ENB)](https://biodiversidad.mma.gob.cl/estrategia-nacional-de-biodiversidad/) y los indicadores que permiten monitorear su cumplimiento en el tiempo. Esta plataforma digital presenta de manera integrada los avances de Chile hacia el cumplimiento de las metas de la ENB, reportadas ante la [Convención de la Diversidad Biológica (CBD)](https://www.cbd.int/) en el Séptimo Informe Nacional (2026).
 
-Por primera vez, el reporte nacional se estructura sobre indicadores estandarizados, permitiendo evaluar el progreso de manera comparable y basada en evidencia, conforme al nuevo <a href="https://www.cbd.int/gbf/related/monitoring">Marco de Monitoreo</a> adoptado bajo el acuerdo de Kunming-Montreal. Esta plataforma permite explorar directamente los indicadores, comprender cómo se sustentan los avances reportados y visualizar las relaciones entre datos, evidencia y toma de decisiones.
+**¿Por qué es importante hacer seguimiento a la ENB?**
 
-A través de la plataforma, es posible navegar por los cinco objetivos que Chile se ha propuesto en su ENB, así como por las 39 metas que tributan a dichos objetivos, accediendo en cada una de ellas a:
+Con el fin de desarrollar y aplicar políticas eficaces para promover la conservación de la biodiversidad es fundamental contar con información sobre el estado de la biodiversidad, la integridad de los ecosistemas y el impacto que tienen las actividades humanas sobre los sistemas (MMA, CTCN, CATIE, ICRAF, 2016. Diseño de una Red de Monitoreo de Biodiversidad y Cambio Climático).
 
+
+Esta plataforma representa un salto en la forma en la cual el país monitorea sus compromisos, y un desafío tecnológico que ha permitido integrar los sistemas nacionales de monitoreo con los procesos de reporte internacional mediante indicadores estandarizados y flujos de información reproducibles.  Este sistema, también ha permitido identificar brechas en la información disponible y los desafíos que enfrentan las instituciones para generar y compartir datos ambientales en tiempo real.
+
+**¿Qué información podrá encontrar?**
+
+La plataforma funciona como un flujo continuo y transparente: recopila los datos desde su origen, los analiza de forma abierta y los transforma en información clara, alineada con el [Marco Global de Biodiversidad de Kunming-Montreal de la CBD](https://www-cbd-int.translate.goog/gbf?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc).
+
+A través de la plataforma, es posible navegar por los cinco objetivos de la ENB, y sus 39 metas asociadas.  Para cada una de estas podrá acceder a la siguiente información:
 - Estado de avance de la meta
 - Principales acciones implementadas
 - Resultados alcanzados
@@ -29,11 +37,11 @@ A través de la plataforma, es posible navegar por los cinco objetivos que Chile
 - Vínculos con los Objetivos de Desarrollo Sostenible
 - Indicadores estandarizados y hojas de cálculo que sustentan la evaluación del progreso, cuando corresponde.
 
-Siguiendo el Marco de Monitoreo de la CBD, la plataforma integra distintos tipos de indicadores. Se incluyen los indicadores de cabecera de reporte obligatorio, complementados por indicadores nacionales desarrollados para reflejar las particularidades de las metas de Chile.
+La plataforma integra distintos tipos de indicadores, siguiendo las recomendaciones de la CBD. Se incluyen tanto los indicadores de cabecera, de reporte obligatorio, como indicadores nacionales, desarrollados para reflejar las particularidades de las metas del país. Por primera vez, el Reporte Nacional (7RN) se estructura sobre indicadores estandarizados, permitiendo evaluar el progreso de manera comparable y basada en evidencia, conforme al nuevo [Marco de Monitoreo](https://www.cbd.int/gbf/related/monitoring) adoptado bajo el Marco Global de Kunming-Montreal.
 
-Los indicadores de cabecera se presentan con sus títulos originales en inglés, conforme a la nomenclatura oficial de la CBD, mientras que los indicadores nacionales se muestran en español.
+Los indicadores de cabecera se presentan con sus títulos originales en inglés, conforme a la nomenclatura oficial de la CBD, mientras que los indicadores nacionales se muestran en español. No es posible medir todo, pero sí es clave seleccionar qué monitorear para que la información generada sea útil en la toma de decisiones.
 
-Esta plataforma muestra cómo una arquitectura de seguimiento basada en datos interoperables, análisis reproducibles y reporte digital puede fortalecer la implementación de la ENB y apoyar la toma de decisiones informada para la conservación y el uso sostenible de la biodiversidad.
+Por ello, esta plataforma se ha construido como una arquitectura de seguimiento basada en datos interoperables, análisis reproducibles y reporte digital, lo que permitirá fortalecer el seguimiento a la implementación de la ENB y apoyar decisiones informadas, promoviendo que las contribuciones de todos los sectores y toda la sociedad contribuyan a la conservación y uso sostenible de la biodiversidad.
 </p>
 
 ---
